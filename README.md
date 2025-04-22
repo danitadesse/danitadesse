@@ -64,14 +64,6 @@ A responsive portfolio site showing off my dev journey and creative side.
 
 ---
 
-### 🎧 Now Playing (Optional Spotify Integration)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
