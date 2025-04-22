@@ -53,12 +53,7 @@ A responsive portfolio site showing off my dev journey and creative side.
 ### 🔥 GitHub Streaks & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danitadesse&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danitadesse&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danitadesse&theme=tokyo-night" />
 </p>
 
 ---
